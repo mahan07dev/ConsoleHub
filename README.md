@@ -75,3 +75,31 @@ cd ConsoleHub
 
 # Build and run
 dotnet run
+```
+
+## Standalone Executable / Release
+Check the Releases section to download pre-compiled binaries or installer packages.
+
+---
+
+# 📂 Configuration & Logs
+When launched, the application automatically initializes default environment settings if they do not exist:
+
+- **Config File** (`config.json`): Manages settings like default theme, password length, and logging behavior.
+
+- **Logs Directory** (`logs/app.log`): Records operational events and runtime crash logs.
+
+```JSON
+{
+  "Theme": "Green",
+  "DefaultPasswordLength": 16,
+  "LoggingEnabled": true
+}
+```
+
+---
+
+# 📄 License
+Distributed under the MIT License. See [**LICENSE**](./LICENCE) for more information.
+
+---
