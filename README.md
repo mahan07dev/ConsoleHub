@@ -19,6 +19,7 @@ A modular C# command-line workspace application featuring security routines, web
 <a href="https://github.com/Mahan07dev/ConsoleHub"><img src="https://img.shields.io/github/stars/Mahan07dev/ConsoleHub?style=for-the-badge" /></a>
 <a href="https://github.com/Mahan07dev/ConsoleHub/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Mahan07dev/ConsoleHub?style=for-the-badge" /></a>
 </p>
+</div>
 
 ---
 
