@@ -8,12 +8,12 @@
 A modular C# command-line workspace application featuring security routines, web/developer utilities, system metrics, and an interactive personal portfolio—all wrapped in a keyboard-navigable CLI.
 
 <p>
-<a href="https://mahan07dev.github.io/ConsoleHub/releases"><img src="https://img.shields.io/badge/🚀%20Install%20right%20now!-7c3aed?style=for-the-badge" /></a>
+<a href="https://github.com/Mahan07dev/ConsoleHub/releases"><img src="https://img.shields.io/badge/🚀%20Install%20right%20now!-7c3aed?style=for-the-badge" /></a>
 <br><br>
-<a href="https://mahan07dev.github.io/ConsoleHub/releases">
+<a href="https://github.com/Mahan07dev/ConsoleHub/releases">
   <img src="https://img.shields.io/github/v/release/Mahan07dev/ConsoleHub?style=for-the-badge" alt="Latest Version">
 </a>
-<a href="https://mahan07dev.github.io/ConsoleHub/releases">
+<a href="https://github.com/Mahan07dev/ConsoleHub/releases">
   <img src="https://img.shields.io/github/release-date/Mahan07dev/ConsoleHub?style=for-the-badge" alt="Latest Release Date">
 </a>
 <a href="https://github.com/Mahan07dev/ConsoleHub"><img src="https://img.shields.io/github/stars/Mahan07dev/ConsoleHub?style=for-the-badge" /></a>
