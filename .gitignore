@@ -1,0 +1,90 @@
+# ==========================================
+# Build & Compiled Outputs
+# ==========================================
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[T3t]mp/
+*.cache
+*.dll
+*.exe
+*.pdb
+*.user
+*.userosscache
+*.sln.docstates
+
+# Exclude generated code files
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+
+# ==========================================
+# Visual Studio / IDE Specific Files
+# ==========================================
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.vshost.exe*
+*.g.cs
+*.g.i.cs
+
+# ==========================================
+# Package Management (NuGet)
+# ==========================================
+packages/
+*.nupkg
+*.snupkg
+# Restore worker outputs
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ==========================================
+# Installers / Publish Binaries
+# ==========================================
+# Exclude setup projects and generated installers from repository source
+*.msi
+*.msix
+*.appx
+*.appxbundle
+*.appinstaller
+[R|r]elease/
+[D|d]ebug/
+
+# ==========================================
+# Operating System Junk
+# ==========================================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# macOS / Linux (if cross-platform tools are used)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
