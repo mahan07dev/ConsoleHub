@@ -8,35 +8,35 @@ A modular C# command-line workspace application featuring security routines, web
 
 * **🔐 Security & Dev Tools:**
   * Cryptographically secure password generator.
-  * Password strength evaluator[cite: 1].
-  * 32-character API key generator[cite: 1].
-  * SHA-256 hash generator[cite: 1].
-  * Base64 encoder/decoder[cite: 1].
+  * Password strength evaluator.
+  * 32-character API key generator.
+  * SHA-256 hash generator.
+  * Base64 encoder/decoder.
 
 * **🌐 Web / Dev Utilities:**
-  * UUID/GUID generator[cite: 1].
-  * Unix timestamp converter[cite: 1].
-  * URL codec (Escape Data String)[cite: 1].
-  * HTTP status lookup helper[cite: 1].
+  * UUID/GUID generator.
+  * Unix timestamp converter.
+  * URL codec (Escape Data String).
+  * HTTP status lookup helper.
 
 * **🛠️ System Info:**
-  * Live monitoring of OS version, machine name, CPU core count, system architecture, and runtime uptime[cite: 1].
+  * Live monitoring of OS version, machine name, CPU core count, system architecture, and runtime uptime.
 
 * **ℹ️ Interactive Portfolio & Links:**
-  * Displays developer profile, core technology stack, and personal links (GitHub, Telegram, MahanVerse, LogoShop, Portfolio)[cite: 1].
+  * Displays developer profile, core technology stack, and personal links (GitHub, Telegram, MahanVerse, LogoShop, Portfolio).
 
 * **⚙️ Logging & Configuration:**
-  * Persisted runtime configurations saved to `config.json` (theme settings, default password length, logging flags)[cite: 1].
-  * Automated file logging for session tracking and error reporting (`logs/app.log`)[cite: 1].
+  * Persisted runtime configurations saved to `config.json` (theme settings, default password length, logging flags).
+  * Automated file logging for session tracking and error reporting (`logs/app.log`).
 
 ---
 
 ## 🛠️ Tech Stack & Architecture
 
-* **Language:** C#[cite: 1]
-* **Target Runtime:** .NET Console Application[cite: 1]
-* **Navigation:** Custom arrow-key/keyboard-driven interactive menu engine (`ConsoleKey.UpArrow`, `ConsoleKey.DownArrow`, `ConsoleKey.Enter`, `ConsoleKey.Escape`)[cite: 1]
-* **Security:** `System.Security.Cryptography` (`RandomNumberGenerator`, `SHA256`)[cite: 1]
+* **Language:** C#
+* **Target Runtime:** .NET Console Application
+* **Navigation:** Custom arrow-key/keyboard-driven interactive menu engine (`ConsoleKey.UpArrow`, `ConsoleKey.DownArrow`, `ConsoleKey.Enter`, `ConsoleKey.Escape`)
+* **Security:** `System.Security.Cryptography` (`RandomNumberGenerator`, `SHA256`)
 
 ---
 
